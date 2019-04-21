@@ -12,11 +12,10 @@ Video: https://www.youtube.com/watch?v=XHoXkWLhwYQ
 
 #### Dependencies:
 
-* [TensorFlow](https://www.tensorflow.org/) is required (tested with version 1.4.0)
+* [TensorFlow](https://www.tensorflow.org/) 
 
-* numpy is required
+* numpy
 
-* [ROS](http://wiki.ros.org/) is optional (tested with Kinetic on Ubuntu 16.04)
+* Optional [ROS](http://wiki.ros.org/) 
 
-* [ford_msgs](https://bitbucket.org/acl-swarm/ford_msgs/src/master/) if you're using ROS, for our custom msg definitions.
-
+* Optional [ford_msgs](https://bitbucket.org/acl-swarm/ford_msgs/src/master/) 
