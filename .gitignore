@@ -1,0 +1,4 @@
+*.pyc
+README.html
+.DS_STORE
+scripts/.ipynb_checkpoints
